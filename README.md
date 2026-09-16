@@ -28,7 +28,7 @@ Last login: today — building things that ship
 
 ## `$ cat about.md`
 
-Construo software que precisa ficar de pé sozinho — e, quando dá, também o hardware que roda embaixo dele.
+Construo software que precisa ficar de pé sozinho e, quando dá, também o hardware que roda embaixo dele.
 
 Venho da eletrônica: passei um ano diagnosticando falha em nível de componente antes de escrever código para produção. Isso mudou como eu programo. Sei o que acontece quando uma dependência externa cai às 3h da manhã, e é por isso que meus sistemas assumem falha como padrão, não como exceção.
 
@@ -102,7 +102,7 @@ limiar-code/*
 
 ### `universal-resilience-toolkit`
 
-Uma ferramenta única para **retries, rate limits, circuit breakers e persistência de estado** — sem obrigar nenhuma dependência no seu projeto.
+Uma ferramenta única para **retries, rate limits, circuit breakers e persistência de estado** sem obrigar nenhuma dependência no seu projeto.
 
 Exponential backoff para tentativas, token buckets para limitar requisições, circuit breakers com *half-open state* para dar fôlego a serviços caindo. O estado tenta SQLite ou Redis e faz fallback silencioso para a memória do processo. Deixei preparado para plugar OpenTelemetry e rastrear cada tentativa.
 
@@ -117,7 +117,7 @@ node · bun · deno · cloudflare workers · vercel edge
 
 ### `devflux`
 
-Uma IDE mobile de verdade, para quem não tem PC. Roda **Alpine Linux nativo** com shell funcional — dá para subir aplicação Node.js direto do Android, com gerenciamento de memória para não torrar o aparelho.
+Uma IDE mobile de verdade, para quem não tem PC. Roda **Alpine Linux nativo** com shell funcional dá para subir aplicação Node.js direto do Android, com gerenciamento de memória para não torrar o aparelho.
 
 SSH, conexão com Supabase e AWS, sync de código e backup de projeto no estilo Git.
 
