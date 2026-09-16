@@ -32,7 +32,7 @@ Construo software que precisa ficar de pé sozinho e, quando dá, também o hard
 
 Venho da eletrônica: passei um ano diagnosticando falha em nível de componente antes de escrever código para produção. Isso mudou como eu programo. Sei o que acontece quando uma dependência externa cai às 3h da manhã, e é por isso que meus sistemas assumem falha como padrão, não como exceção.
 
-Hoje divido o tempo entre **ecossistemas corporativos** — ERPs, CRMs, plataformas logísticas, integrações com Oracle e Fluig — e **produtos próprios**, onde eu escolho o problema, a stack e o prazo.
+Hoje divido o tempo entre **ecossistemas corporativos** ERPs, CRMs, plataformas logísticas, integrações com Oracle e Fluig e **produtos próprios**, onde eu escolho o problema, a stack e o prazo.
 
 <br/>
 
