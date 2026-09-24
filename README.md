@@ -62,8 +62,10 @@ Full Stack Developer with experience building, maintaining, and shipping interna
 
 Plus a range of client sites and landing pages (Fancar, Mitsubishi, Honda, Ford) — [see all repositories →](https://github.com/1a8jkf?tab=repositories)
 
+<br/>
+
 <div align="center">
 
-<sub>Open to opportunities and collaborations</sub>
+<img src="assets/dev-id-card.svg" alt="Pixel art black cat holding a developer ID card for Marcos Giovanni. Open to opportunities and collaborations." width="100%" />
 
 </div>
