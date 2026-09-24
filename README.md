@@ -62,19 +62,6 @@ Full Stack Developer with experience building, maintaining, and shipping interna
 
 Plus a range of client sites and landing pages (Fancar, Mitsubishi, Honda, Ford) — [see all repositories →](https://github.com/1a8jkf?tab=repositories)
 
-<br/>
-
-## GitHub stats
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=1a8jkf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=8B949E&text_color=C9D1D9&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1a8jkf&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=6&hide_title=true" alt="Top languages" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <sub>Open to opportunities and collaborations</sub>
