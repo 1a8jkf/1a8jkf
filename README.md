@@ -4,63 +4,46 @@
 
 **Full Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-giovanni-24768537b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_lachousrisky01)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:MarcosAllmeida167@gmail.com)
-[![Website](https://img.shields.io/badge/workspacejobs.com.br-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://workspacejobs.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1a8jkf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1436?style=flat-square&logo=linkedin&logoColor=4dffc3)](https://www.linkedin.com/in/marcos-giovanni-24768537b/)
+[![Instagram](https://img.shields.io/badge/Instagram-1c1436?style=flat-square&logo=instagram&logoColor=ff7eb6)](https://www.instagram.com/marcos_lachousrisky01)
+[![Gmail](https://img.shields.io/badge/Gmail-1c1436?style=flat-square&logo=gmail&logoColor=ffd166)](mailto:MarcosAllmeida167@gmail.com)
+[![Website](https://img.shields.io/badge/workspacejobs.com.br-1c1436?style=flat-square&logo=googlechrome&logoColor=c9a8ff)](https://workspacejobs.com.br)
+[![GitHub](https://img.shields.io/badge/GitHub-1c1436?style=flat-square&logo=github&logoColor=white)](https://github.com/1a8jkf)
 
 </div>
 
 <br/>
 
-## About
+## about
 
-Full Stack Developer with experience building, maintaining, and shipping internal web applications and custom solutions. Working with React, TypeScript, Node.js, databases, and APIs, along with experience in deployments, troubleshooting, and corporate technical support. Focused on problem-solving, continuous improvement, and delivering functional, reliable solutions.
-
-<br/>
-
-## Stack
-
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Infra & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+Full Stack Developer building, maintaining and shipping internal web applications and custom solutions.
+Works with React, TypeScript, Node.js, databases and APIs, with hands-on experience in deployments, troubleshooting and corporate technical support.
+Focused on problem-solving, continuous improvement and delivering solutions that are functional and reliable.
 
 <br/>
 
-## Featured projects
+## stack
 
-| Project | Description |
+| area | tools |
 |---|---|
-| **[ferrum-alloc](https://github.com/1a8jkf/ferrum-alloc)** | High-performance O(1) memory allocator — Rust |
-| **[ferrum-injector](https://github.com/1a8jkf/ferrum-injector)** | DLL injector for FerrumAlloc on Windows — Rust |
-| **[universal-resilience-toolkit](https://github.com/1a8jkf/universal-resilience-toolkit)** | Composable resilience toolkit — retries, rate limits, circuit breakers — for Node, Bun, Deno, Workers and Vercel Edge |
-| **[devflux](https://github.com/1a8jkf/devflux)** | Native Alpine Linux shell for Android — run and sync Node.js projects from a phone |
-| **[cep-api](https://github.com/1a8jkf/cep-api)** | Node.js API for Brazilian postal code lookup, with JWT auth and in-memory cache |
+| **languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-1c1436?style=flat-square&logo=typescript&logoColor=4dffc3) ![JavaScript](https://img.shields.io/badge/JavaScript-1c1436?style=flat-square&logo=javascript&logoColor=4dffc3) ![Rust](https://img.shields.io/badge/Rust-1c1436?style=flat-square&logo=rust&logoColor=4dffc3) ![Java](https://img.shields.io/badge/Java-1c1436?style=flat-square&logo=openjdk&logoColor=4dffc3) ![HTML5](https://img.shields.io/badge/HTML5-1c1436?style=flat-square&logo=html5&logoColor=4dffc3) ![CSS3](https://img.shields.io/badge/CSS3-1c1436?style=flat-square&logo=css3&logoColor=4dffc3) |
+| **frontend** | ![React](https://img.shields.io/badge/React-1c1436?style=flat-square&logo=react&logoColor=c9a8ff) ![Next.js](https://img.shields.io/badge/Next.js-1c1436?style=flat-square&logo=nextdotjs&logoColor=c9a8ff) ![Angular](https://img.shields.io/badge/Angular-1c1436?style=flat-square&logo=angular&logoColor=c9a8ff) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1c1436?style=flat-square&logo=tailwindcss&logoColor=c9a8ff) |
+| **backend & data** | ![Node.js](https://img.shields.io/badge/Node.js-1c1436?style=flat-square&logo=nodedotjs&logoColor=ff7eb6) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1436?style=flat-square&logo=postgresql&logoColor=ff7eb6) ![Redis](https://img.shields.io/badge/Redis-1c1436?style=flat-square&logo=redis&logoColor=ff7eb6) ![Prisma](https://img.shields.io/badge/Prisma-1c1436?style=flat-square&logo=prisma&logoColor=ff7eb6) |
+| **infra & tools** | ![Docker](https://img.shields.io/badge/Docker-1c1436?style=flat-square&logo=docker&logoColor=ffd166) ![Linux](https://img.shields.io/badge/Linux-1c1436?style=flat-square&logo=linux&logoColor=ffd166) ![Nginx](https://img.shields.io/badge/Nginx-1c1436?style=flat-square&logo=nginx&logoColor=ffd166) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1c1436?style=flat-square&logo=cloudflare&logoColor=ffd166) |
 
-Plus a range of client sites and landing pages (Fancar, Mitsubishi, Honda, Ford) — [see all repositories →](https://github.com/1a8jkf?tab=repositories)
+<br/>
+
+## projects
+
+| project | what it does | built with |
+|---|---|---|
+| [**ferrum-alloc**](https://github.com/1a8jkf/ferrum-alloc) | High-performance O(1) memory allocator | Rust |
+| [**ferrum-injector**](https://github.com/1a8jkf/ferrum-injector) | DLL injector for FerrumAlloc on Windows | Rust |
+| [**universal-resilience-toolkit**](https://github.com/1a8jkf/universal-resilience-toolkit) | Composable retries, rate limits and circuit breakers | Node, Bun, Deno, Workers, Vercel Edge |
+| [**devflux**](https://github.com/1a8jkf/devflux) | Native Alpine Linux shell for Android to run and sync Node.js projects from a phone | Android, Alpine, Node.js |
+| [**cep-api**](https://github.com/1a8jkf/cep-api) | Brazilian postal code (CEP) lookup API with JWT auth and in-memory cache | Node.js |
+
+Also built client sites and landing pages for Fancar, Mitsubishi, Honda and Ford. [See all repositories](https://github.com/1a8jkf?tab=repositories)
 
 <br/>
 
