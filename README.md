@@ -13,6 +13,7 @@
 </div> 
 <br/>
 Full Stack Developer building, maintaining and shipping internal web applications and custom solutions. Works with React, TypeScript, Node.js, databases and APIs, with hands-on experience in deployments, troubleshooting and corporate technical support. Focused on problem-solving, continuous improvement and delivering solutions that are functional and reliable.
+
 ```javascript
 const marcos = {
   role: "Full Stack Developer",
