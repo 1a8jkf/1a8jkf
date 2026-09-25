@@ -10,11 +10,8 @@
 <a href="LINK_DO_SEU_PORTFOLIO"><img src="https://img.shields.io/badge/Website-0b1020?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="LINK_DO_SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<br/><br/>
-<img src="assets/ascii-trail.svg" alt="Animated trail of colorful ASCII blocks" width="100%" /> 
 </div> 
 <br/>
-👨🏻‍💻 About Me
 Full Stack Developer building, maintaining and shipping internal web applications and custom solutions. Works with React, TypeScript, Node.js, databases and APIs, with hands-on experience in deployments, troubleshooting and corporate technical support. Focused on problem-solving, continuous improvement and delivering solutions that are functional and reliable.
 ```javascript
 const marcos = {
@@ -31,7 +28,7 @@ const marcos = {
 };
 ```
 <br/>
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 <div align="center">
   <p><strong>Languages</strong></p>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -62,7 +59,7 @@ const marcos = {
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
 </div>
 <br/>
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 <table align="center">
    <tr>
      <td width="50%" valign="top">
@@ -108,10 +105,6 @@ const marcos = {
   <p><a href="https://github.com/1a8jkf?tab=repositories"><b>See all repositories</b></a></p>
 </div>
 <br/>
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="assets/bots-banner.png" alt="Pixel-art robot squad" height="150" />
-<br/><br/>
 <!-- Live bot visitor counter — swap in once your custom "bots" theme is hosted (see counter/SETUP.md). Replace YOUR-COUNTER-HOST with your domain, then remove the comment markers and delete the static banner above.
   <img src="https://YOUR-COUNTER-HOST/@1a8jkf.profile?name=1a8jkf.profile&theme=bots&padding=7&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto" alt="profile views counter" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=1a8jkf&show_icons=true&include_all_commits=true&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&ring_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="GitHub stats" /> 
