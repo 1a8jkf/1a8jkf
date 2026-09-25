@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 150" width="100%">
+  <style>
+    .blk {
+      animation: cascade 3.6s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    .chr {
+      font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace;
+      font-weight: 700;
+      fill: #0b1020;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    @keyframes cascade {
+      0%   { opacity: 0; transform: scale(0.5) translateY(6px); }
+      12%  { opacity: 1; transform: scale(1) translateY(0); }
+      55%  { opacity: 1; transform: scale(1) translateY(0); }
+      70%  { opacity: 0; transform: scale(0.6) translateY(-8px); }
+      100% { opacity: 0; transform: scale(0.6) translateY(-8px); }
+    }
+  </style>
+  <rect class="blk" x="14.0" y="51.0" width="48" height="48" rx="10" fill="#8b5cf6" style="animation-delay:-0.0s" /><rect class="blk" x="76.0" y="74.7" width="48" height="48" rx="10" fill="#ec4899" style="animation-delay:-0.28s" /><rect class="blk" x="138.0" y="85.0" width="48" height="48" rx="10" fill="#f97316" style="animation-delay:-0.55s" /><rect class="blk" x="200.0" y="75.9" width="48" height="48" rx="10" fill="#eab308" style="animation-delay:-0.83s" /><rect class="blk" x="262.0" y="52.6" width="48" height="48" rx="10" fill="#22c55e" style="animation-delay:-1.11s" /><rect class="blk" x="324.0" y="28.5" width="48" height="48" rx="10" fill="#06b6d4" style="animation-delay:-1.38s" /><rect class="blk" x="386.0" y="17.1" width="48" height="48" rx="10" fill="#3b82f6" style="animation-delay:-1.66s" /><rect class="blk" x="448.0" y="25.0" width="48" height="48" rx="10" fill="#ef4444" style="animation-delay:-1.94s" /><rect class="blk" x="510.0" y="47.7" width="48" height="48" rx="10" fill="#a855f7" style="animation-delay:-2.22s" /><rect class="blk" x="572.0" y="72.3" width="48" height="48" rx="10" fill="#14b8a6" style="animation-delay:-2.49s" /><rect class="blk" x="634.0" y="84.8" width="48" height="48" rx="10" fill="#f43f5e" style="animation-delay:-2.77s" /><rect class="blk" x="696.0" y="78.0" width="48" height="48" rx="10" fill="#84cc16" style="animation-delay:-3.05s" /><rect class="blk" x="758.0" y="55.9" width="48" height="48" rx="10" fill="#0ea5e9" style="animation-delay:-3.32s" />
+  <text class="blk chr" x="38.0" y="75.0" font-size="20" style="animation-delay:-0.0s">&gt;</text><text class="blk chr" x="100.0" y="98.7" font-size="20" style="animation-delay:-0.28s">@</text><text class="blk chr" x="162.0" y="109.0" font-size="20" style="animation-delay:-0.55s">\</text><text class="blk chr" x="224.0" y="99.9" font-size="15" style="animation-delay:-0.83s">[]</text><text class="blk chr" x="286.0" y="76.6" font-size="20" style="animation-delay:-1.11s">$</text><text class="blk chr" x="348.0" y="52.5" font-size="20" style="animation-delay:-1.38s">%</text><text class="blk chr" x="410.0" y="41.1" font-size="20" style="animation-delay:-1.66s">;</text><text class="blk chr" x="472.0" y="49.0" font-size="20" style="animation-delay:-1.94s">&amp;</text><text class="blk chr" x="534.0" y="71.7" font-size="20" style="animation-delay:-2.22s">/</text><text class="blk chr" x="596.0" y="96.3" font-size="20" style="animation-delay:-2.49s">:</text><text class="blk chr" x="658.0" y="108.8" font-size="20" style="animation-delay:-2.77s">$</text><text class="blk chr" x="720.0" y="102.0" font-size="15" style="animation-delay:-3.05s">10</text><text class="blk chr" x="782.0" y="79.9" font-size="20" style="animation-delay:-3.32s">?</text>
+</svg>
