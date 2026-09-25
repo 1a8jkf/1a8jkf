@@ -103,34 +103,40 @@ const marcos = {
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/1a8jkf/ferrum-alloc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1a8jkf&repo=ferrum-alloc&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="ferrum-alloc" width="100%" /></a>
-      <br/><b>FerrumAlloc · Memory</b><br/>
-      High-performance O(1) memory allocator written in Rust.
+    <td width="50%" valign="top">
+      <img src="assets/icons/github-mark.svg" width="18" align="left" />&nbsp;
+      <b><a href="https://github.com/1a8jkf/ferrum-alloc">ferrum-alloc</a></b> · Memory<br/><br/>
+      High-performance O(1) memory allocator written in Rust.<br/>
+      <img src="https://img.shields.io/badge/Rust-0b1020?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/1a8jkf/ferrum-injector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1a8jkf&repo=ferrum-injector&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="ferrum-injector" width="100%" /></a>
-      <br/><b>FerrumInjector · Windows</b><br/>
-      DLL injector for FerrumAlloc on Windows, also in Rust.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/1a8jkf/universal-resilience-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1a8jkf&repo=universal-resilience-toolkit&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="universal-resilience-toolkit" width="100%" /></a>
-      <br/><b>Resilience Toolkit · Runtime-agnostic</b><br/>
-      Composable retries, rate limits and circuit breakers for Node, Bun, Deno, Workers and Vercel Edge.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/1a8jkf/devflux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1a8jkf&repo=devflux&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="devflux" width="100%" /></a>
-      <br/><b>DevFlux · Mobile dev</b><br/>
-      Native Alpine Linux shell for Android to run and sync Node.js projects from a phone.
+    <td width="50%" valign="top">
+      <img src="assets/icons/github-mark.svg" width="18" align="left" />&nbsp;
+      <b><a href="https://github.com/1a8jkf/ferrum-injector">ferrum-injector</a></b> · Windows<br/><br/>
+      DLL injector for FerrumAlloc on Windows, also in Rust.<br/>
+      <img src="https://img.shields.io/badge/Rust-0b1020?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/1a8jkf/cep-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1a8jkf&repo=cep-api&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="cep-api" width="50%" /></a>
-      <br/><b>CEP API · Node.js</b><br/>
-      Brazilian postal code (CEP) lookup API with JWT auth and in-memory cache.
+    <td width="50%" valign="top">
+      <img src="assets/icons/github-mark.svg" width="18" align="left" />&nbsp;
+      <b><a href="https://github.com/1a8jkf/universal-resilience-toolkit">universal-resilience-toolkit</a></b> · Runtime-agnostic<br/><br/>
+      Composable retries, rate limits and circuit breakers for Node, Bun, Deno, Workers and Vercel Edge.<br/>
+      <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icons/github-mark.svg" width="18" align="left" />&nbsp;
+      <b><a href="https://github.com/1a8jkf/devflux">devflux</a></b> · Mobile dev<br/><br/>
+      Native Alpine Linux shell for Android to run and sync Node.js projects from a phone.<br/>
+      <img src="https://img.shields.io/badge/Android-0b1020?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
+      <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/icons/github-mark.svg" width="18" align="left" />&nbsp;
+      <b><a href="https://github.com/1a8jkf/cep-api">cep-api</a></b> · Node.js<br/><br/>
+      Brazilian postal code (CEP) lookup API with JWT auth and in-memory cache.<br/>
+      <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
     </td>
   </tr>
 </table>
@@ -148,9 +154,13 @@ Also built client sites and landing pages for Fancar, Mitsubishi, Honda and Ford
 
 <div align="center">
 
+<img src="assets/bots-banner.png" alt="Pixel-art robot squad" height="150" />
+
+<br/><br/>
+
 <!--
-  Bot visitor counter. Disabled until your custom "bots" theme is hosted (see counter/SETUP.md).
-  Replace YOUR-COUNTER-HOST with your domain, then remove the comment markers.
+  Live bot visitor counter — swap in once your custom "bots" theme is hosted (see counter/SETUP.md).
+  Replace YOUR-COUNTER-HOST with your domain, then remove the comment markers and delete the static banner above.
 
 <img src="https://YOUR-COUNTER-HOST/@1a8jkf.profile?name=1a8jkf.profile&theme=bots&padding=7&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto" alt="profile views counter" />
 
@@ -159,6 +169,9 @@ Also built client sites and landing pages for Fancar, Mitsubishi, Honda and Ford
 
 <img src="https://github-readme-stats.vercel.app/api?username=1a8jkf&show_icons=true&include_all_commits=true&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&ring_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1a8jkf&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&title_color=60a5fa&text_color=cbd5e1&bg_color=0b1020&border_color=1d4ed8" alt="Most used languages" />
+
+> [!NOTE]
+> If the two cards above show as broken images, the public `github-readme-stats.vercel.app` instance is rate-limited or down — this is common and not something wrong on your end. Reload after a few minutes, or self-host your own instance (fork the repo, deploy to Vercel with your own GitHub token) for a permanent fix.
 
 </div>
 
