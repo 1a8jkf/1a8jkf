@@ -6,10 +6,10 @@
   </a>
 <br/>
   <!-- Redes Sociais -->
-<a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="LINK_DO_SEU_PORTFOLIO"><img src="https://img.shields.io/badge/Website-0b1020?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
-<a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="LINK_DO_SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/marcos-giovanni-24768537b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://1a8jkf.github.io/"><img src="https://img.shields.io/badge/Website-0b1020?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+<a href="mailto:marcosallmeida167@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.instagram.com/marcos_lachousrisky01?stkn=MTA5M3RnbHNhYTZtOA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div> 
 <br/>
 Full Stack Developer building, maintaining and shipping internal web applications and custom solutions. Works with React, TypeScript, Node.js, databases and APIs, with hands-on experience in deployments, troubleshooting and corporate technical support. Focused on problem-solving, continuous improvement and delivering solutions that are functional and reliable.
