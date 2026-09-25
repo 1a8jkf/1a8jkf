@@ -18,6 +18,10 @@
 [![Website](https://img.shields.io/badge/workspacejobs.com.br-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://workspacejobs.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/1a8jkf)
 
+<br/>
+
+<img src="assets/ascii-trail.svg" alt="Animated trail of colorful ASCII blocks" width="100%" />
+
 </div>
 
 <br/>
@@ -169,9 +173,6 @@ Also built client sites and landing pages for Fancar, Mitsubishi, Honda and Ford
 
 <img src="https://github-readme-stats.vercel.app/api?username=1a8jkf&show_icons=true&include_all_commits=true&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&ring_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1a8jkf&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&title_color=60a5fa&text_color=cbd5e1&bg_color=0b1020&border_color=1d4ed8" alt="Most used languages" />
-
-> [!NOTE]
-> If the two cards above show as broken images, the public `github-readme-stats.vercel.app` instance is rate-limited or down — this is common and not something wrong on your end. Reload after a few minutes, or self-host your own instance (fork the repo, deploy to Vercel with your own GitHub token) for a permanent fix.
 
 </div>
 
