@@ -152,8 +152,6 @@ Also built client sites and landing pages for Fancar, Mitsubishi, Honda and Ford
 
 <br/>
 
-## stats
-
 <div align="center">
 
 <br/><br/>
