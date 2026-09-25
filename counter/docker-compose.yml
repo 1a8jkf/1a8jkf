@@ -1,0 +1,16 @@
+# Moe Counter with the custom "bots" theme.
+# The folder name after /theme/ is the value you pass as ?theme=bots
+services:
+  moe-counter:
+    image: ghcr.io/journey-ad/moe-counter:latest
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data
+      # Assumes the image keeps its themes in /app/assets/theme.
+      # Check with: docker compose exec moe-counter ls /app/assets/theme
+      - ./theme-bots:/app/assets/theme/bots:ro
+    environment:
+      - APP_PORT=3000
+      - DB_TYPE=sqlite
+    restart: unless-stopped
