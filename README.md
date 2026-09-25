@@ -20,8 +20,6 @@
 
 <br/>
 
-<img src="assets/ascii-trail.svg" alt="Animated trail of colorful ASCII blocks" width="100%" />
-
 </div>
 
 <br/>
@@ -158,22 +156,7 @@ Also built client sites and landing pages for Fancar, Mitsubishi, Honda and Ford
 
 <div align="center">
 
-<img src="assets/bots-banner.png" alt="Pixel-art robot squad" height="150" />
-
 <br/><br/>
-
-<!--
-  Live bot visitor counter — swap in once your custom "bots" theme is hosted (see counter/SETUP.md).
-  Replace YOUR-COUNTER-HOST with your domain, then remove the comment markers and delete the static banner above.
-
-<img src="https://YOUR-COUNTER-HOST/@1a8jkf.profile?name=1a8jkf.profile&theme=bots&padding=7&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto" alt="profile views counter" />
-
-<br/><br/>
--->
-
-<img src="https://github-readme-stats.vercel.app/api?username=1a8jkf&show_icons=true&include_all_commits=true&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&ring_color=3b82f6&bg_color=0b1020&border_color=1d4ed8" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1a8jkf&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&title_color=60a5fa&text_color=cbd5e1&bg_color=0b1020&border_color=1d4ed8" alt="Most used languages" />
-
 </div>
 
 <br/>
